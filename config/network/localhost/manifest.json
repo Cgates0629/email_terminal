@@ -6,14 +6,8 @@
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "jayden"
     },
     "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
     }
 }
